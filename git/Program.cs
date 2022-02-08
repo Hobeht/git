@@ -11,7 +11,7 @@ namespace git
         static void Main(string[] args)
         {
 
-            Console.WriteLine("blabla");
+            
             Console.WriteLine("hi");
             int N =int.Parse(Console.ReadLine());
 
